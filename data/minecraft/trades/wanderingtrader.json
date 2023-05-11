@@ -2255,25 +2255,25 @@
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 3,
+                    "count": 2,
                     "add": false
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:amethyst_block",
+                "name": "minecraft:amethyst_shard",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 2,
+                    "count": 4,
                     "add": false
                   }
                 ]
               },
               "price_multiplier": 0.05,
               "trader_experience": 1,
-              "max_uses": 6,
+              "max_uses": 8,
               "reward_experience": true
             },
             {
