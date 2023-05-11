@@ -1,0 +1,571 @@
+{
+  "tiers": [
+    {
+      "total_exp_required": 0,
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:string",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 20,
+                    "add": false
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald"
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 2,
+              "max_uses": 16,
+              "reward_experience": true
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:coal",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 10,
+                    "add": false
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald"
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 2,
+              "max_uses": 16,
+              "reward_experience": true
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1,
+                    "add": false
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:cod",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 6,
+                    "add": false
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:cooked_cod",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 6,
+                    "add": false
+                  }
+                ]
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 1,
+              "max_uses": 16,
+              "reward_experience": true
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3,
+                    "add": false
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:cod_bucket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1,
+                    "add": false
+                  }
+                ]
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 1,
+              "max_uses": 16,
+              "reward_experience": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 10,
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:cod",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 15,
+                    "add": false
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald"
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 10,
+              "max_uses": 16,
+              "reward_experience": true
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1,
+                    "add": false
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:salmon",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 6,
+                    "add": false
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:cooked_salmon",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 6,
+                    "add": false
+                  }
+                ]
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 5,
+              "max_uses": 16,
+              "reward_experience": true
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2,
+                    "add": false
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:campfire",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1,
+                    "add": false
+                  }
+                ]
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 5,
+              "max_uses": 12,
+              "reward_experience": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 70,
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:salmon",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 13,
+                    "add": false
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald"
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 20,
+              "max_uses": 16,
+              "reward_experience": true
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3,
+                    "add": false
+                  },
+                  {
+                    "function": "minecraft:set_count",
+                    "count": {
+                      "type": "villagerconfig:reference",
+                      "id": "enchantLevel"
+                    },
+                    "add": true
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:fishing_rod",
+                "functions": [
+                  {
+                    "function": "minecraft:enchant_with_levels",
+                    "levels": {
+                      "type": "villagerconfig:reference",
+                      "id": "enchantLevel"
+                    },
+                    "treasure": false
+                  }
+                ]
+              },
+              "price_multiplier": 0.2,
+              "trader_experience": 10,
+              "max_uses": 3,
+              "reference_providers": {
+                "enchantLevel": {
+                  "type": "minecraft:uniform",
+                  "min": 5,
+                  "max": 19
+                }
+              },
+              "reward_experience": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 150,
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:tropical_fish",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 6,
+                    "add": false
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald"
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 30,
+              "max_uses": 12,
+              "reward_experience": true
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald"
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:prismarine"
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 15,
+              "max_uses": 12,
+              "reward_experience": true
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald"
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:dark_prismarine"
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 15,
+              "max_uses": 12,
+              "reward_experience": true
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald"
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:prismarine_bricks"
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 15,
+              "max_uses": 12,
+              "reward_experience": true
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald"
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:sea_lantern"
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 15,
+              "max_uses": 12,
+              "reward_experience": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 250,
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:pufferfish",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4,
+                    "add": false
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald"
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 30,
+              "max_uses": 12,
+              "reward_experience": true
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:alternatives",
+                "children": [
+                  {
+                    "type": "minecraft:item",
+                    "name": "minecraft:jungle_boat",
+                    "functions": [
+                      {
+                        "function": "minecraft:set_count",
+                        "count": 1,
+                        "add": false
+                      }
+                    ],
+                    "conditions": [
+                      {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                          "nbt": "{VillagerData:{type:\"minecraft:desert\"}}"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "minecraft:item",
+                    "name": "minecraft:jungle_boat",
+                    "functions": [
+                      {
+                        "function": "minecraft:set_count",
+                        "count": 1,
+                        "add": false
+                      }
+                    ],
+                    "conditions": [
+                      {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                          "nbt": "{VillagerData:{type:\"minecraft:jungle\"}}"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "minecraft:item",
+                    "name": "minecraft:oak_boat",
+                    "functions": [
+                      {
+                        "function": "minecraft:set_count",
+                        "count": 1,
+                        "add": false
+                      }
+                    ],
+                    "conditions": [
+                      {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                          "nbt": "{VillagerData:{type:\"minecraft:plains\"}}"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "minecraft:item",
+                    "name": "minecraft:acacia_boat",
+                    "functions": [
+                      {
+                        "function": "minecraft:set_count",
+                        "count": 1,
+                        "add": false
+                      }
+                    ],
+                    "conditions": [
+                      {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                          "nbt": "{VillagerData:{type:\"minecraft:savanna\"}}"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "minecraft:item",
+                    "name": "minecraft:spruce_boat",
+                    "functions": [
+                      {
+                        "function": "minecraft:set_count",
+                        "count": 1,
+                        "add": false
+                      }
+                    ],
+                    "conditions": [
+                      {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                          "nbt": "{VillagerData:{type:\"minecraft:snow\"}}"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "minecraft:item",
+                    "name": "minecraft:dark_oak_boat",
+                    "functions": [
+                      {
+                        "function": "minecraft:set_count",
+                        "count": 1,
+                        "add": false
+                      }
+                    ],
+                    "conditions": [
+                      {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                          "nbt": "{VillagerData:{type:\"minecraft:swamp\"}}"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "minecraft:item",
+                    "name": "minecraft:spruce_boat",
+                    "functions": [
+                      {
+                        "function": "minecraft:set_count",
+                        "count": 1,
+                        "add": false
+                      }
+                    ],
+                    "conditions": [
+                      {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                          "nbt": "{VillagerData:{type:\"minecraft:taiga\"}}"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald"
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 30,
+              "max_uses": 12,
+              "reward_experience": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
