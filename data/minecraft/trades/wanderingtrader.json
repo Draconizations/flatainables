@@ -2351,6 +2351,27 @@
               "trader_experience": 1,
               "max_uses": 8,
               "reward_experience": true
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 8,
+                    "add": false
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:sculk_catalyst"
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 1,
+              "max_uses": 2,
+              "reward_experience": true
             }
           ]
         }
