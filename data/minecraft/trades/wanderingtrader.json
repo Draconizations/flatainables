@@ -4,7 +4,7 @@
       "total_exp_required": 0,
       "groups": [
         {
-          "num_to_select": 5,
+          "num_to_select": 6,
           "trades": [
             {
               "cost_a": {
@@ -1994,7 +1994,7 @@
       "total_exp_required": 10,
       "groups": [
         {
-          "num_to_select": 1,
+          "num_to_select": 2,
           "trades": [
             {
               "cost_a": {
