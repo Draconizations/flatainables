@@ -2199,6 +2199,27 @@
               },
               "result": {
                 "type": "minecraft:item",
+                "name": "minecraft:tadpole_bucket"
+              },
+              "price_multiplier": 0.05,
+              "trader_experience": 1,
+              "max_uses": 4,
+              "reward_experience": true
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 5,
+                    "add": false
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
                 "name": "minecraft:salmon_bucket"
               },
               "price_multiplier": 0.05,
